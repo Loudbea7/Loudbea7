@@ -1,4 +1,4 @@
-### Hi there 👋
+Learning programming, problem-solving, algorithms, and a little bit of math.
 
 <!--
 **Loudbea7/Loudbea7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
